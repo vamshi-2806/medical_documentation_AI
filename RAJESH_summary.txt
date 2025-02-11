@@ -1,0 +1,10 @@
+Patient Name: RAJESH
+
+Transcription:
+ the patient is experiencing chronic hypertension and mild diabetes symptoms.
+
+Extracted Medical Terms:
+hypertension, ., mild, and, the, symptoms, experiencing, is, chronic, diabetes, patient
+
+Summary:
+RAJESH has chronic hypertension and mild diabetes symptoms.
