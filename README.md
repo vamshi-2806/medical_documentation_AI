@@ -1,5 +1,5 @@
-# medical_documentation_AI
- generate a medical document from the uploaded audio file.
+# medical_documentation_AI - Generate a medical document from the uploaded audio file.
+
 
 
 After cloning this repository, Create a .env file and store your GEMINI API as
